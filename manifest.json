@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Auteur",
+  "name": "plateform des auteur de l'opu",
   "icons": [
     {
       "src": "favicon.ico",
